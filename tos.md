@@ -1,3 +1,5 @@
+#Terms of Service
+
 The following terms of service apply to the use of the Quantum Wireless Networking app (the "Service"). By using the Service, you agree to be bound by
 these terms. If you do not agree to these terms, you may not use the Service.
 
