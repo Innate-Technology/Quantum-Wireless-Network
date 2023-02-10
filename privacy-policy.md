@@ -1,4 +1,5 @@
-Privacy Policy
+#Privacy Policy
+
 Introduction: This privacy policy sets out the manner in which Innate Technology collects, uses, maintains, and discloses information collected from users
 (each, "User") of the QUIN app ("Service"). This privacy policy applies to the Service and all products and services offered by Innate Technology.
 Personal Identification Information: We may collect personal identification information from Users in a variety of ways, including, but not limited to,
