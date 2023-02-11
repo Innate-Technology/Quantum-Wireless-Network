@@ -18,6 +18,4 @@ If you're interested in contributing to the development of the quantum wireless 
 
 ## License
 
-The source code for the quantum wireless network app is released under the MIT license. For more information, please see the `LICENSE` file in this repository.
-
 This README.md file provides a brief overview of the app and how to get started with it. The file also includes information on how to contribute to the development of the app, as well as the license under which the source code is released.
