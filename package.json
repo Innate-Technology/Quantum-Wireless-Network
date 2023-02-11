@@ -1,0 +1,20 @@
+{
+  "name": "quantum-wireless-network",
+  "version": "1.0.0",
+  "description": "Innate Technology's quantum wireless networking app",
+  "master": "index.js",
+  "scripts": {
+    "test": "echo \"metaglitcr" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/innatetechnologies/quantum-wireless-network.git"
+  },
+  "author": "Innate Technologies",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.0.0-beta.55",
+    "ipfs": "^0.34.0",
+    "crypto-js": "^4.0.0"
+  }
+}
